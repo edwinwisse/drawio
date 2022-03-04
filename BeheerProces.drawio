@@ -1,0 +1,56 @@
+<mxfile host="app.diagrams.net" modified="2022-03-04T12:10:26.110Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.131 Safari/537.36 Edg/96.0.1054.72" etag="YD75E5IQJO3DmyOF0jeC" version="16.6.5" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="764" dy="680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="Ke3yO8ylyBoG3ne6M-2E-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ke3yO8ylyBoG3ne6M-2E-0" target="Ke3yO8ylyBoG3ne6M-2E-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="150" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ke3yO8ylyBoG3ne6M-2E-0" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="20" y="40" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ke3yO8ylyBoG3ne6M-2E-1" value="Wijzigings-voorstel" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="80" y="130" width="57.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Ke3yO8ylyBoG3ne6M-2E-9" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="200" y="145" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ke3yO8ylyBoG3ne6M-2E-11" value="Technisch&lt;br&gt;overleg" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="220" y="260" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ke3yO8ylyBoG3ne6M-2E-13" value="Technisch aspect" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ke3yO8ylyBoG3ne6M-2E-9" target="Ke3yO8ylyBoG3ne6M-2E-11" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="370" as="sourcePoint" />
+            <mxPoint x="420" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ke3yO8ylyBoG3ne6M-2E-14" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="360" y="145" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ke3yO8ylyBoG3ne6M-2E-15" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ke3yO8ylyBoG3ne6M-2E-9" target="Ke3yO8ylyBoG3ne6M-2E-14" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="290" as="sourcePoint" />
+            <mxPoint x="360" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ke3yO8ylyBoG3ne6M-2E-16" value="Geen &lt;br&gt;technisch &lt;br&gt;aspect" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Ke3yO8ylyBoG3ne6M-2E-15" vertex="1" connectable="0">
+          <mxGeometry x="-0.2444" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ke3yO8ylyBoG3ne6M-2E-17" value="Programmeringstafel" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="380" y="260" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ke3yO8ylyBoG3ne6M-2E-19" value="Technisch aspect" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ke3yO8ylyBoG3ne6M-2E-14" target="Ke3yO8ylyBoG3ne6M-2E-17" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="245" y="215" as="sourcePoint" />
+            <mxPoint x="245" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
